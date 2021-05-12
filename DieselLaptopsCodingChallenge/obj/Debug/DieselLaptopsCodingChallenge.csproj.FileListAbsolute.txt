@@ -1,0 +1,14 @@
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.exe.config
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.exe
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.pdb
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.csprojAssemblyReference.cache
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.exe
+C:\Users\oberl\Documents\DieselLaptopsCodingChallenge\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.pdb
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.exe.config
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.exe
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\bin\Debug\DieselLaptopsCodingChallenge.pdb
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.csprojAssemblyReference.cache
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.exe
+C:\Users\oberl\Documents\GitHub\coding-challenge-timothy-oberlie\DieselLaptopsCodingChallenge\obj\Debug\DieselLaptopsCodingChallenge.pdb
